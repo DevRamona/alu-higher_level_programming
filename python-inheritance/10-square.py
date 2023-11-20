@@ -24,4 +24,3 @@ class Square(Rectangle):
         """Area of Square"""
 
         return self.__size ** 2
-
