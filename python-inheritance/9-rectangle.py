@@ -24,4 +24,3 @@ class Rectangle(BaseGeometry):
         """Area of rectangle"""
 
         return self.__width * self.__height
-
