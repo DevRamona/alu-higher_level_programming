@@ -9,4 +9,3 @@ if __name__ == '__main__':
     with urlopen(sys.argv[1]) as re:
         header_var = re.headers.get('X-Request-Id')
         print(header_var)
-
