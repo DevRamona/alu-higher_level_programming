@@ -53,3 +53,4 @@ Test when size of row of the matrix is not equal and when the element of the mat
 
     >>> matrix_divided([[1, 2], [4, 5]], float('inf'))
     [[0.0, 0.0], [0.0, 0.0]]
+
