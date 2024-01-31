@@ -1,1 +1,1 @@
-A Readme file to be used for javascript 
+A Readme file that will be used during javascript intranet projects
