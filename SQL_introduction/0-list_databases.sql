@@ -1,2 +1,2 @@
--- List all databases
-SHOW DATABASES  
+-- Code To Show All Database by DevRamona
+SHOW DATABASES;
