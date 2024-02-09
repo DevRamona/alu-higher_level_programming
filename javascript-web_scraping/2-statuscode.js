@@ -9,4 +9,4 @@ request.get(args[0], (err, res) => {
   } else {
     console.error(err);
   }
-})
+});
